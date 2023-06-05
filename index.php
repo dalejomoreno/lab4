@@ -34,7 +34,7 @@
 					<p>Amet risus nullam eget felis eget nunc lobortis. Eget arcu dictum varius duis at consectetur lorem donec. Arcu felis bibendum ut tristique et egestas quis. Turpis tincidunt id aliquet risus feugiat in ante metus. Read more…</p>
 				</article>
 				<article>
-					<h4>Investors Bet Big on Building Best Block Toys</h4>
+					<h4>Investors Bet Big on Building Block Toys</h4>
 					<p>by Right Angle<br /><time datetime="2018-02-15">February 15, 2018</time></p>
 					<p>At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Arcu cursus euismod quis viverra nibh cras. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Aenean sed adipiscing diam donec adipiscing. Read more…</p>
 				</article>
@@ -42,16 +42,15 @@
 			<!-- Side Notes / Related Information -->
 			<aside>
 <!-- STEP 4: Create a pair of FORM tags so that visitors can sign up for a newsletter -->
-                    <label for="text">User</label>
+			<form id="log_in" action="subscribe.php" method="get">
+					<label for="text">User</label>
                     <input type="text" id="text" name="text" />
 					<br>
-                                
                     <label for="password">Password</label>
                     <input type="password" id="password" name="password" />
                  
 <!-- STEP 5: Add an action attribute to the FORM start tag that points to a file called "subscribe.php", and set the method attribute to "get" -->
-                <form id="log_in" action="subscribe.php" method="get">
-<!-- STEP 6: Add an H3 element inside the FORM tags that reads, "Subscribe to Newsletter" -->
+                <!-- STEP 6: Add an H3 element inside the FORM tags that reads, "Subscribe to Newsletter" -->
                     <h3>Subscribe to Newsletter</h3>
 <!-- STEP 7a: Add a LABEL element for the email address -->
                     <label for="emailAddress">Email</label>
