@@ -34,7 +34,7 @@
 					<p>Amet risus nullam eget felis eget nunc lobortis. Eget arcu dictum varius duis at consectetur lorem donec. Arcu felis bibendum ut tristique et egestas quis. Turpis tincidunt id aliquet risus feugiat in ante metus. Read more…</p>
 				</article>
 				<article>
-					<h4>Investors Bet Big on Building Block Toys</h4>
+					<h4>Investors Bet Big on Building Best Block Toys</h4>
 					<p>by Right Angle<br /><time datetime="2018-02-15">February 15, 2018</time></p>
 					<p>At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Arcu cursus euismod quis viverra nibh cras. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Aenean sed adipiscing diam donec adipiscing. Read more…</p>
 				</article>
