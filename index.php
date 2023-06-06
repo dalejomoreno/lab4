@@ -43,11 +43,6 @@
 			<aside>
 <!-- STEP 4: Create a pair of FORM tags so that visitors can sign up for a newsletter -->
 			<form id="log_in" action="subscribe.php" method="get">
-					<label for="text">User</label>
-                    <input type="text" id="text" name="text" />
-					<br>
-                    <label for="password">Password</label>
-                    <input type="password" id="password" name="password" />
                  
 <!-- STEP 5: Add an action attribute to the FORM start tag that points to a file called "subscribe.php", and set the method attribute to "get" -->
                 <!-- STEP 6: Add an H3 element inside the FORM tags that reads, "Subscribe to Newsletter" -->
@@ -64,7 +59,7 @@
 <!-- STEP 8b: Set the content of the BUTTON element to read, "Subscribe" -->
 <!-- STEP 8c: Upload the changed index.php file that you've now edited to the server and refresh the page to view the changes - try adding an email address and submitting the form -->
 <!-- STEP 9: Open up subscribe.php in your code editor and head to STEP 10 -->
-
+			</form>
 				    <h3>Did You Know…?</h3>
 				<p>One of the most important components of effective life-long learning is <em>play</em>. Learning a new skill (like Web development) should include a certain amount of play. Renowned children’s programming entertainer Mr. Rogers certainly knew about the value that play represented:</p>
 				<!-- Quotation -->
